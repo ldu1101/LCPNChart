@@ -25,6 +25,7 @@
     _alpha = 1.f;
     _showPointLabel = NO;
     _pointLabelColor = [UIColor blackColor];
+    _pointLabelBackgroundColor = [[UIColor whiteColor] colorWithAlphaComponent:0.8];
     _pointLabelFormat = @"%1.f";
 }
 
